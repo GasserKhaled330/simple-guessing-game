@@ -31,3 +31,12 @@ Too Low!!!
 Enter a guess: 10
 You win!
 ```
+
+## 🔀 Upgraded Version Available
+
+An upgraded version of the game is available in a separate branch.  
+To check it out, simply switch to the `gusseing-game-v2` branch tab or in terminal:
+
+```bash
+git checkout gusseing-game-v2
+```
